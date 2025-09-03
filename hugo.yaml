@@ -1,7 +1,28 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Ethan Kingsley
+
 module:
   imports:
     - path: github.com/imfing/hextra
-  
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Portfolio
+      pageRef: /portfolio
+      weight: 1
+    - name: About Me
+      pageRef: /aboutme
+      weight: 2
+    - name: Search
+      weight: 3
+      params:
+        type: search
