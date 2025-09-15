@@ -1,0 +1,71 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethan Kingsley – Operations</title>
+    <link>http://localhost:1313/portfolio/09-operations/</link>
+    <description>Recent content in Operations on Ethan Kingsley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Sep 2025 17:13:48 -0400</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/portfolio/09-operations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Department It Tools</title>
+      <link>http://localhost:1313/portfolio/09-operations/department-it-tools/department-it-tools/</link>
+      <pubDate>Mon, 15 Sep 2025 14:42:59 -0400</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/09-operations/department-it-tools/department-it-tools/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Machine Project Flow</title>
+      <link>http://localhost:1313/portfolio/09-operations/machine-project-flow/machine-project-flow/</link>
+      <pubDate>Sun, 14 Sep 2025 17:15:41 -0400</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/09-operations/machine-project-flow/machine-project-flow/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Engineering Lab Redesign</title>
+      <link>http://localhost:1313/portfolio/09-operations/engineering-lab-redesign/engineering-lab-redesign/</link>
+      <pubDate>Sun, 14 Sep 2025 17:14:51 -0400</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/09-operations/engineering-lab-redesign/engineering-lab-redesign/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Asset Management</title>
+      <link>http://localhost:1313/portfolio/09-operations/asset-management/asset-management/</link>
+      <pubDate>Sun, 14 Sep 2025 17:11:12 -0400</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/09-operations/asset-management/asset-management/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

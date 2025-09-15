@@ -27,3 +27,5 @@ Otherwise projects may be viewed chronologically using the toolbar at the left.
 The intention is that some recruiter could quickly look at all of the examples of some skill on one page
 
 I'm thinking we could accomplish this by creating tags for every paragraph of content and then filtering all of the content by those tags on different pages, which is more like something obsidian can do. 
+
+A note on CAD images. There is some inconsistency throughout the images- some are rendered and some are in Onshape. 
