@@ -1,7 +1,7 @@
 ---
 title: 'Ethan Kingsley'
 date: '2025-08-31T15:43:46-05:00'
-draft: true
+draft: false
 title: 'Ethan Kingsley'
 layout: default
 ---

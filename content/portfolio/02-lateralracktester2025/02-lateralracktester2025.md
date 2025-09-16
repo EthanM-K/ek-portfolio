@@ -1,6 +1,6 @@
 ---
 date: '2025-09-01T08:31:00-05:00'
-draft: true
+draft: false
 title: 'Lateral Rack Tester (2025)'
 weight: 2
 ---
