@@ -16,7 +16,7 @@ layout: default
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-  Mechanical engineer with 9 years of experience. 
+  Mechanical engineer with 9 years of experience in automated machine design. This is a collection of projects I led and completed in my role as Mechanical Engineer III in the Test Department at Trek Bicycle company.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -27,9 +27,9 @@ layout: default
 </div>
 
 {{< cards >}}
-	{{< card link="/ek-portfolio/portfolio/01-fpl2025/01-fpl2025" title="Fork Proof Load Control System Redesign (2025)" >}}
-	{{< card link="/ek-portfolio/portfolio/02-lateralracktester2025/02-lateralracktester2025" title="Lateral Rack Tester (2025)">}}
+	{{< card link="/ek-portfolio/portfolio/01-fpl2025/01-fpl2025" title="Fork Proof Load Control System Redesign (2025)" image="/portfolio/01-fpl2025/festo-valves.png" >}}
+	{{< card link="/ek-portfolio/portfolio/02-lateralracktester2025/02-lateralracktester2025" title="Lateral Rack Tester (2025)" image="/portfolio/02-lateralracktester2025/lateral-rack-tester-iso.png">}}
 	{{< card link="/ek-portfolio/portfolio/04-fpl2023/04-fpl2023" title="Fork Proof Load Electrical Redesign (2023-2024)" image="/portfolio/04-fpl2023/fpl2023-iso-front.png">}}
-	{{< card link="/ek-portfolio/portfolio/06-verticalracktester2022/06-verticalracktester2022" title="Vertical Rack Tester (2022)">}}
-	{{< card link="/ek-portfolio/portfolio/07-fpl2021/07-fpl2021" title="Fork Proof Load Machine (2021)">}}
+	{{< card link="/ek-portfolio/portfolio/06-verticalracktester2022/06-verticalracktester2022" title="Vertical Rack Tester (2022)" image="/portfolio/06-verticalracktester2022/vertical-rack-tester-iso.png">}}
+	{{< card link="/ek-portfolio/portfolio/07-fpl2021/07-fpl2021" title="Fork Proof Load Machine (2021)" image="/portfolio/07-fpl2021/load-cylinder-assembly.png">}}
 {{< /cards >}}

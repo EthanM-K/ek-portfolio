@@ -8,5 +8,5 @@ weight: 3
 
 ## Final Deliverables
 
-## Main Project Features
+## Project Features
 
