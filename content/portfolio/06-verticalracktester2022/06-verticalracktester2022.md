@@ -17,7 +17,7 @@ This was a bluesky machine design project with the following requirements
 
 The machine worked
 
-## Main Project Features
+## Project Features
 
 #### V Belt Pulley Design
 #### AC Motor Sizing

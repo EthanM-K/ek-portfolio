@@ -21,7 +21,10 @@ The final deliverable of the machine was a machine frame built out of AngleLock 
 Fixtures were created to accommodate a wide range of bicycle frames, rear bicycle racks by themselves, front bicycle racks by themselves, and headtube mounted front bicycle racks by themselves. 
 
 As of this writing the machine has gone through tens of millions of cycles and tested dozens of different test samples. 
-## Main Features of the Project (or Key Innovations?)
+
+
+## Project Features
+
 #### First implementation of the Beckhoff control system
 After the Test Department decided to move forward with the adoption of [[Operations#Selection of Beckhoff Control System]] the Lateral Rack Tester was the first machine that we developed with Beckhoff.  
 The machine utilized Beckhoff rotary servo motors, EtherCAT field boxes (EP series), and an integrated HMI/controller. The utilization of field boxes allowed the control panel to be placed anywhere, with only a single servo motor/encoder cable and EtherCAT cable going back to the control box, with all other sensor wires not extending beyond the machine itself. Safety toggle switches and E-Stops were implemented. 

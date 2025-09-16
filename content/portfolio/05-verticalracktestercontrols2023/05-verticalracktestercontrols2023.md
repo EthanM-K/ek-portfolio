@@ -5,7 +5,8 @@ title: 'Vertical Rack Tester Controls Redesign (2023)'
 weight: 5
 ---
 ## Project Background
-## Main Project Features
+## Project Deliverables
+## Project Features
 #### Non-PLC Based Control System for Simplicity
 * An Omron Counter unit with omron slim relays
 #### Improved Safety Sensors

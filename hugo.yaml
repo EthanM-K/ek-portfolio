@@ -26,3 +26,17 @@ menu:
       weight: 3
       params:
         type: search
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/ek-logo-no-border.png
+      # dark: images/logo-dark.svg
+      # width: 40
+      # height: 20
+      # link: /
+    width: wide
+  meta:
+    favicon: false
