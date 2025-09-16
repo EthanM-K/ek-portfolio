@@ -2,59 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portfolio/01-fpl2025/01-fpl2025/</loc>
+    <loc>https://example.org/portfolio/01-fpl2025/01-fpl2025/</loc>
     <lastmod>2025-09-01T08:31:37-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/02-lateralracktester2025/02-lateralracktester2025/</loc>
+    <loc>https://example.org/portfolio/02-lateralracktester2025/02-lateralracktester2025/</loc>
     <lastmod>2025-09-01T08:31:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/03-fpldata2024/03-fpldata2024/</loc>
-    <lastmod>2025-09-01T08:31:47-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/04-fpl2023/04-fpl2023/</loc>
+    <loc>https://example.org/portfolio/04-fpl2023/04-fpl2023/</loc>
     <lastmod>2025-09-01T08:31:54-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/05-verticalracktestercontrols2023/05-verticalracktestercontrols2023/</loc>
-    <lastmod>2025-09-01T08:32:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/06-verticalracktester2022/06-verticalracktester2022/</loc>
+    <loc>https://example.org/portfolio/06-verticalracktester2022/06-verticalracktester2022/</loc>
     <lastmod>2025-09-01T08:32:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/07-fpl2021/07-fpl2021/</loc>
+    <loc>https://example.org/portfolio/07-fpl2021/07-fpl2021/</loc>
     <lastmod>2025-09-01T08:32:09-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/08-tulip2021/08-tulip2021/</loc>
-    <lastmod>2025-09-01T08:33:01-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/09-operations/beckhoff-transition/beckhoff-transition/</loc>
-    <lastmod>2025-09-15T16:47:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/09-operations/department-it-tools/department-it-tools/</loc>
-    <lastmod>2025-09-15T14:42:59-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/09-operations/machine-project-flow/machine-project-flow/</loc>
-    <lastmod>2025-09-14T17:15:41-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/09-operations/engineering-lab-redesign/engineering-lab-redesign/</loc>
-    <lastmod>2025-09-14T17:14:51-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/09-operations/</loc>
-    <lastmod>2025-09-14T17:13:48-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/09-operations/asset-management/asset-management/</loc>
-    <lastmod>2025-09-14T17:11:12-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-08-31T15:43:46-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>https://example.org/portfolio/</loc>
     <lastmod>2025-08-31T15:43:46-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aboutme/</loc>
+    <loc>https://example.org/aboutme/</loc>
     <lastmod>2025-08-31T15:43:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
